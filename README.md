@@ -5,4 +5,5 @@ The repository provides detailed explanations, code examples, and use cases for 
 
 ## Patterns
 ### Creational
-1. Factory Method
+1. [Factory Method](src/main/java/org/patterns/creational/factor_method/FactoryMethod_README.md)
+2. [Singleton](src/main/java/org/patterns/creational/singleton/Singleton_README.md)
